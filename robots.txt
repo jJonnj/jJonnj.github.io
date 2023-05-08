@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-sitemap: https://example.com/site_structure/my_sitemaps1.xml
-sitemap: https://example.com/site_structure/my_sitemaps2.xml
+sitemap: https://jjonnj.github.io/sitemap.xml
